@@ -1,0 +1,5 @@
+This is my first Windows 7 phone app. It was made during UHack, a hackathon hosted by the University of Miami. 
+
+It essentially allows the user to start, stop, and save their runs. 
+During the jog the user gets a real time velocity, distance, and time read outs. It also integrates with bing apps and uses the GPS to track and trace your location. 
+The stats from these sessions can then be saved for future reference and comparison.

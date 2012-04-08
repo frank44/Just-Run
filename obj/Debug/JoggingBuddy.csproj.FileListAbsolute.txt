@@ -1,0 +1,40 @@
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\JoggingBuddy.g.resources
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\Background.png
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\JoggingBuddy.dll
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\JoggingBuddy.pdb
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\AppManifest.xaml
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\JoggingBuddy.xap
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\JoggingBuddy.dll
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\JoggingBuddy.pdb
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\XapCacheFile.xml
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\App.g.i.cs
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\History.g.i.cs
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\JustRun.g.i.cs
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\MainPage.g.i.cs
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\Settings.g.i.cs
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\Bin\Debug\ApplicationIcon.png
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\Bin\Debug\Background.png
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\Bin\Debug\JoggingBuddy.dll
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\Bin\Debug\JoggingBuddy.pdb
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\Bin\Debug\AppManifest.xaml
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\Bin\Debug\JoggingBuddy.xap
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\obj\Debug\App.g.i.cs
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\obj\Debug\History.g.i.cs
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\obj\Debug\JustRun.g.i.cs
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\obj\Debug\MainPage.g.i.cs
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\obj\Debug\Settings.g.i.cs
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\obj\Debug\JoggingBuddy.g.resources
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\obj\Debug\JoggingBuddy.dll
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\obj\Debug\JoggingBuddy.pdb
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\JoggingBuddy\obj\Debug\XapCacheFile.xml

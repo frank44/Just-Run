@@ -1,0 +1,15 @@
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\Background.png
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\sdkBingMapsCS.dll
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\sdkBingMapsCS.pdb
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\AppManifest.xaml
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\sdkBingMapsCS.xap
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Frank\Downloads\sdkBingMapsCS\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\App.g.i.cs
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\MainPage.g.i.cs
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\sdkBingMapsCS.g.resources
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\sdkBingMapsCS.dll
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\sdkBingMapsCS.pdb
+C:\Users\Frank\Downloads\sdkBingMapsCS\obj\Debug\XapCacheFile.xml
